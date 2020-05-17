@@ -187,7 +187,7 @@ int main()
 			fps = 0;
 			T = time(0);
 		}
-		cout<<endl;
+		cout<<"heelo"<<endl;
 	}
 	return 0;
 }
